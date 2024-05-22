@@ -1,17 +1,15 @@
-# Tutorial - Rose Diagram plots in python Jupyter notebook 
+# Tutorial - Rose Diagram plots in python Jupyter notebook  with sample data
 Simple approach to plotting Rose Diagram in Python Jupypter Notebook
 
 ************* What is this file all about? ***************
 
-This is to provide most basic guide README.TXT file for ploting Rose Diagrams in python using Jupyter noteebook.
+This is to provide most basic guide for ploting Rose Diagrams in python using Jupyter noteebook.
 
 It describes, in the most simple terms, how to plot the rose diagram of a single paramater.
 
-
-
 ******* IMPORTANT NOTES ******
 
-- This Jupyter Notebook can run in both windows and linux OS
+- The Jupyter Notebook can run in both windows and linux OS
 
 - In Windows, open the Anaconda Navigator/Jupyter notebook from 
 the command promp and cd or navigate to the same directory where 
@@ -19,9 +17,7 @@ the downloaded notebook is located.
 Make sure you place the CSV file containing your data in 
 thesame directory with the Jupyter notebook.
 
-
-
-- In Linux, cd to the workind directory and launch jupyter nootebook 
+- In Linux, cd to the working directory and launch jupyter nootebook 
 from the terminal (i.e. type jupyter nootebook in the command window 
 inside the folder/directory containing the CSV file of the data and the 
 sample notebook)
