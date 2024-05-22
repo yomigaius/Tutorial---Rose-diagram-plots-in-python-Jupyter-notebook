@@ -1,4 +1,4 @@
-# Rose_Diagram_plots_in_python_Tutorial
+# Tutorial - Rose Diagram plots in python Jupyter notebook 
 Simple approach to plotting Rose Diagram in Python Jupypter Notebook
 
 ************* What is this file all about? ***************
